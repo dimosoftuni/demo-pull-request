@@ -23,7 +23,7 @@ public class Calculator {
         return a / b;
     }
 
-    // Main method for testing my program direct commit
+    // Main method for testing my program direct commit test dimo
     public static void main(String[] args) {
 
         Calculator calc = new Calculator();
